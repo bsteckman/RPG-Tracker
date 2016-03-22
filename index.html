@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body ng-controller="DiceController">
+<body>
     <div class="container-fluid">
         <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12" id="character">
             <img class="img-responsive" src="AngelPage1.jpg" alt="">
@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6">
-            <div class="panel panel-primary" id="dicePanel">
+            <div ng-controller="DiceController" class="panel panel-primary" id="dicePanel">
                 <div class="panel-heading">
                     <h2>Dice Set</h2>
                 </div>
