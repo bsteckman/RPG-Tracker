@@ -18,10 +18,13 @@
                 <div class="panel-heading">
                     <h2>Inventory</h2>
                 </div>
-                <div class="panel-body">
-                    <div class="form">
-
-                    </div>
+                <div class="row">
+                <div class="col-xs-3" ng-repeat="item in inventory" class="panel-body">
+                      <h3>Name: {{item.name}}</h3>
+                      <p>Stats: {{item.stats}}</p>
+                      <p>Description: {{item.descrip}}</p>     
+                </div>
+                  
                 </div>
             </div>
         </div>
