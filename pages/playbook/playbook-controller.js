@@ -160,52 +160,52 @@ app.controller("PbController", function($scope){
         },
         {
             src: "pages/playbook/imgs/Page32.jpg",
-            title: "Page32",
+            title: "Basic/Peripheral/Harm",
             page: 31,
         },
         {
             src: "pages/playbook/imgs/Page33.jpg",
-            title: "Page33",
+            title: "Basic Moves Cont.",
             page: 32,
         },
         {
             src: "pages/playbook/imgs/Page34.jpg",
-            title: "Page34",
+            title: "Advanced Basic Moves",
             page: 33,
         },
         {
             src: "pages/playbook/imgs/Page35.jpg",
-            title: "Page35",
+            title: "Harm/Heal/Insight/Barter/Augury",
             page: 34,
         },
         {
             src: "pages/playbook/imgs/Page36.jpg",
-            title: "Page36",
+            title: "Optional Battle Moves/Gangs",
             page: 35,
         },
         {
             src: "pages/playbook/imgs/Page37.jpg",
-            title: "Page37",
+            title: "Harm/Vehicles/Infirmaries/Workspace/Gigs",
             page: 36,
         },
         {
             src: "pages/playbook/imgs/Page38.jpg",
-            title: "Page38",
+            title: "Character Move Reference Page 1",
             page: 37,
         },
         {
             src: "pages/playbook/imgs/Page39.jpg",
-            title: "Page39",
+            title: "Character Move Reference Page 2",
             page: 38,
         },
         {
             src: "pages/playbook/imgs/Page40.jpg",
-            title: "Page40",
+            title: "Character Move Reference Page 3",
             page: 39,
         },
         {
             src: "pages/playbook/imgs/Page41.jpg",
-            title: "Page41",
+            title: "Character Moves By Stat",
             page: 40,
         },
          {
