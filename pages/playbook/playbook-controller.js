@@ -190,17 +190,17 @@ app.controller("PbController", function($scope){
         },
         {
             src: "pages/playbook/imgs/Page38.jpg",
-            title: "Character Move Reference Page 1",
+            title: "Character Move Reference Pg 1",
             page: 37,
         },
         {
             src: "pages/playbook/imgs/Page39.jpg",
-            title: "Character Move Reference Page 2",
+            title: "Character Move Reference Pg 2",
             page: 38,
         },
         {
             src: "pages/playbook/imgs/Page40.jpg",
-            title: "Character Move Reference Page 3",
+            title: "Character Move Reference Pg 3",
             page: 39,
         },
         {
