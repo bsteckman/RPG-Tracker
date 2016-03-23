@@ -1,1 +1,1 @@
-var app = angular.module("RPG", []);
+var app = angular.module("RPG", ['ui.router',]);

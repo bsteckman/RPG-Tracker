@@ -1,6 +1,6 @@
 app.controller("DiceController", function($scope){
     $scope.diceSet =[];
-    
+    $scope.test = "dice controller works!"
 
 
 $scope.addDie = function(){
