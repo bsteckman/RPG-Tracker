@@ -1,5 +1,5 @@
 <body>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel" class="carousel slide" data-interval="false" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
             <div ng-repeat="page in pages track by $index" ng-class="{active:!$index}" class="item">
                 <img ng-src="{{page.src}}" alt="{{page.title}}">
